@@ -44,7 +44,6 @@ class System:
            self.x0dot=self.xdot
            self.fi0=self.fi
            self.fi0dot=self.fidot
-    #def plotting():
 
 a=System()
 a.solution()
